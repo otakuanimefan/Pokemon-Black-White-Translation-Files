@@ -206,7 +206,7 @@ I still want to get\xfffestronger than the Trio!\xf000븀\x0000I'll train just a
 あたしが きいたこと あるのは\xfffeみかたがね うかんでいるときに\xf000븀\x0000じしんを つかうと いいんだって！
 あたしたちと しょうぶ するなら\xfffeポケモン ２ひきは ひつようです
 ……ジャマを するとは\xfffeひどい トレーナーだな！
-うばわれたら うばいかえす……\xfffeいいか わすれるなよ……！
+What's taken will be returned...\xfffeGot it? And don't forget it...!
 ねーねー！ これ\xfffeサンヨウシティの ジムバッジ！\xf000븁\x0000あら あなたも もっているんだ！\xfffeじゃあ どっちが すごいか\xf000븀\x0000ポケモンしょうぶ しましょ！\xf000븁\x0000
 さすが！ ジムバッジを もっている\xfffeひととの しょうぶは ちがうね！
 ポケモンジムの いりぐちに\xfffeシンボルが あるでしょ？\xf000븁\x0000ジムバッジを てにいれたら\xfffeそこに なまえが きざまれるんだよ！
@@ -807,9 +807,9 @@ I see! So you\xfffewould choose that move...
 I'll keep going cause\xfffeit's not over yet!
 ...! Strong as ever!
 PLASMAAAAA!\xfffe...AAAAA!
-プラズマだん ばんざい！
-すばらしい けいかくに\xfffeじゃまは つきもの！
-どう おもいしった！？\xfffe……まけおしみ よ
+Long live the Plasma!
+You're such a figurative thorn in our\xfffemagnificent plan's metaphorical side!
+So what did you think?!\xfffe...I'm such a sore loser.
 プラーズマー！\xfffeゆ ゆめが！
 プラーズマー！\xfffeこれは あくむ ね！
 おいおいおい！ こどもに\xfffeまけて ショック でかいぞ！
