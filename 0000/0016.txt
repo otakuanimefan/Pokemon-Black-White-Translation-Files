@@ -539,9 +539,9 @@ The foe's \xf000Ă\x0001\x0000\xfffedove into the water!
 \xf000Ă\x0001\x0000 burrowed its\xfffeway under the ground!
 The wild \xf000Ă\x0001\x0000 burrowed\xfffeits way under the ground!
 The foe's \xf000Ă\x0001\x0000 burrowed\xfffeits way under the ground!
-\xf000Ă\x0001\x0000 burrowed\xfffeits way under the ground!
-The wild \xf000Ă\x0001\x0000 burrowed\xfffeits way under the ground!
-The foe's \xf000Ă\x0001\x0000 burrowed\xfffeits way under the ground!
+\xf000Ă\x0001\x0000 disappeared\xfffein the shadows!
+The wild \xf000Ă\x0001\x0000 disappeared\xfffein the shadows!
+The foe's \xf000Ă\x0001\x0000 disappeared\xfffein the shadows!
 \xf000Ă\x0001\x0000 sprang up!
 The wild \xf000Ă\x0001\x0000\xfffesprang up!
 The foe's \xf000Ă\x0001\x0000\xfffesprang up!
