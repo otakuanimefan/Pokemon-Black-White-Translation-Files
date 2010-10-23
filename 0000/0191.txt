@@ -1,79 +1,79 @@
-Pokemon Trainer
-Pokemon Trainer
+Pokémon Trainer
+Pokémon Trainer
 Youngster
 Lass
 School Boy
 School Girl
 Tennis Player
-Foot-Baller
+Footballer
 Waiter
 Waitress
 Gym Leader
 Gym Leader
 Gym Leader
-Day-Care Teacher
-Day-Care Student
-Day-Care Student
-Twin Girls
-Pokemon Breeder
-Pokemon Breeder
+Nursery Worker
+Kindergartener
+Kindergartener
+Twins
+Pokémon Breeder
+Pokémon Breeder
 Gym Leader
 Gym Leader
 Gym Leader
 Gym Leader
 Gym Leader
-Pokemon Ranger
-Pokemon Ranger
+Pokémon Ranger
+Pokémon Ranger
 Worker
 Backpacker
 Backpacker
 Fisherman
 Musician
-Dancer
+Breakdancer
 Clown
 Artist
 Baker
 Psychic
 Psychic
-Pokemon Trainer
-Pokemon Trainer
+Pokémon Trainer
+Pokémon Trainer
 Team Plasma
-Pokemon Trainer
+Pokémon Trainer
 Rich Boy
-Rich Girl
+Lady
 Pilot
 Worker
-Basketball Player
+Basketballer
 Researcher
 Team Plasma
-Office Lady
-Elite Trainer
-Elite Trainer
+Secretary
+Ace Trainer
+Ace Trainer
 Karate King
 Researcher
 Soccer Player
 Gym Leader
 Gym Leader
 Gym Leader
-Skin Heads
-Cleaning Member
-Poké Maniac
-Poké Maniac
+Cue Ball
+Cleaner
+Pokéfan
+Pokéfan
 Doctor
 Nurse
-Double Team
+Gangster
 Battle Girl
 Parasol Lady
-Business Man
-Business Man
-Pokéfan
-Pokéfan
-Veteran Trainer
-Veteran Trainer
-Gangster
-Baseball Player
+Businessman
+Businessman
+Fanclubber
+Fanclubber
+Veteran
+Veteran
+Biker
+Baseballer
 Hiker
-Lady
+Socialite
 Gentleman
 Team Plasma
 Elite Four
@@ -83,23 +83,23 @@ Elite Four
 Team Plasma
 Railroad Worker
 Swimmer
-Bikini Lady
+Bikini Swimmer
 Police Officer
 Maid
 Subway Master
 Champion
-Cycling
-Cycling
-Bike-lover
-ブルジョワールけ
-ブルジョワールけ
-ブルジョワールけ
-ブルジョワールけ
+Cyclist
+Cyclist
+Bike Enthusiast
+Bourgeoise
+Bourgeoise
+Bourgeoise
+Bourgeoise
 Game Freak
-ブルジョワールけ
-ブルジョワールけ
-Pokemon Trainer
+Bourgeoise
+Bourgeoise
+Pokémon Trainer
 Team Plasma
 Subway Master
-Pokemon Trainer
-Pokemon Trainer
+Pokémon Trainer
+Pokémon Trainer
