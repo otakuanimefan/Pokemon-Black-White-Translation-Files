@@ -608,9 +608,9 @@ Aqua Ring restored\xfffethe foe's \xf000Ă\x0001\x0000's HP!
 \xf000Ă\x0001\x0000\xfffewas seeded!
 The wild \xf000Ă\x0001\x0000\xfffewas seeded!
 The foe's \xf000Ă\x0001\x0000\xfffewas seeded!
-\xf000Ă\x0001\x0000's Leech Seed\xffferecovered health!
-The wild \xf000Ă\x0001\x0000's Leech Seed\xffferecovered health!
-The foe's \xf000Ă\x0001\x0000's Leech Seed\xffferecovered health!
+\xf000Ă\x0001\x0000's health is\xfffesapped by Leech Seed!
+The wild \xf000Ă\x0001\x0000's health is\xfffesapped by Leech Seed!
+The foe's \xf000Ă\x0001\x0000's health is\xfffesapped by Leech Seed!
 \xf000Ă\x0001\x0000 cut its own HP\xfffeand maximized its Attack!
 The wild \xf000Ă\x0001\x0000 cut its own HP\xfffeand maximized its Attack!
 The foe's \xf000Ă\x0001\x0000 cut its own HP\xfffeand maximized its Attack!
