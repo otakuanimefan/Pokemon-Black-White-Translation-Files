@@ -253,9 +253,9 @@ The foe's \xf000Ă\x0001\x0000\xfffeis already poisoned!
 \xf000Ă\x0001\x0000\xfffecan't be poisoned!
 The wild \xf000Ă\x0001\x0000\xfffecan't be poisoned!
 The foe's \xf000Ă\x0001\x0000\xfffecan't become poisoned!
-\xf000Ă\x0001\x0000\xfffegot burned!
-The wild \xf000Ă\x0001\x0000\xfffegot burned!
-The foe's \xf000Ă\x0001\x0000\xfffegot burned!
+\xf000Ă\x0001\x0000\xfffewas burned!
+The wild \xf000Ă\x0001\x0000\xfffewas burned!
+The foe's \xf000Ă\x0001\x0000\xfffewas burned!
 \xf000Ă\x0001\x0000 got burned by the\xfffe\xf000ĉ\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 got burned by the\xfffe\xf000ĉ\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 got burned by the\xfffe\xf000ĉ\x0001\x0001!
@@ -855,9 +855,9 @@ The foe's \xf000Ă\x0001\x0000\xfffetook severe damage!
 \xf000Ă\x0001\x0000 was\xfffedug into by sharp rocks!
 The wild \xf000Ă\x0001\x0000 was\xfffedug into by sharp rocks!
 The foe's \xf000Ă\x0001\x0000 was\xfffedug into by sharp rocks!
-\xf000Ă\x0001\x0000 has\xfffedistorted space-time!
-The wild \xf000Ă\x0001\x0000 has\xfffedistorted space-time!
-The foe's \xf000Ă\x0001\x0000 has\xfffedistorted space-time!
+\xf000Ă\x0001\x0000 has\xfffetwisted the dimension!
+The wild \xf000Ă\x0001\x0000 has\xfffetwisted the dimension!
+The foe's \xf000Ă\x0001\x0000 has\xfffetwisted the dimension!
 \xf000Ă\x0001\x0000’s perish countdown\xfffefell to \xf000Ȁ\x0001\x0001!
 The wild \xf000Ă\x0001\x0000’s perish countdown\xfffefell to \xf000Ȁ\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000’s perish countdown\xfffefell to \xf000Ȁ\x0001\x0001!
