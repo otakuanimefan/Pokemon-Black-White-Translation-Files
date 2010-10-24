@@ -749,9 +749,9 @@ The foe's \xf000Ă\x0001\x0000 is\xfffestoring energy!
 \xf000Ă\x0001\x0000 unleashed\xfffeenergy!
 The wild \xf000Ă\x0001\x0000 unleashed\xfffeenergy!
 The foe's \xf000Ă\x0001\x0000 unleashed\xfffeenergy!
-\xf000Ă\x0001\x0000\xfffeThe foe's helped out the party!
-The wild \xf000Ă\x0001\x0000\xfffeThe foe's helped out the party!
-The foe's \xf000Ă\x0001\x0000\xfffeThe foe's helped out the party!
+\xf000Ă\x0001\x0000 waits for a target\xfffeto make a move!
+The wild \xf000Ă\x0001\x0000 waits for a target\xfffeto make a move!
+The foe's \xf000Ă\x0001\x0000 waits for a target\xfffeto make a move!
 \xf000Ă\x0001\x0000 intercepted\xfffe\xf000Ă\x0001\x0001's Attack!
 \xf000Ă\x0001\x0000 intercepted\xfffethe wild \xf000Ă\x0001\x0001's Attack!
 \xf000Ă\x0001\x0000 intercepted\xfffethe foe's \xf000Ă\x0001\x0001's Attack!
