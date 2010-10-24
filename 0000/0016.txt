@@ -752,13 +752,13 @@ The foe's \xf000Ă\x0001\x0000 unleashed\xfffeenergy!
 \xf000Ă\x0001\x0000 waits for a target\xfffeto make a move!
 The wild \xf000Ă\x0001\x0000 waits for a target\xfffeto make a move!
 The foe's \xf000Ă\x0001\x0000 waits for a target\xfffeto make a move!
-\xf000Ă\x0001\x0000 intercepted\xfffe\xf000Ă\x0001\x0001's Attack!
-\xf000Ă\x0001\x0000 intercepted\xfffethe wild \xf000Ă\x0001\x0001's Attack!
-\xf000Ă\x0001\x0000 intercepted\xfffethe foe's \xf000Ă\x0001\x0001's Attack!
-The wild \xf000Ă\x0001\x0000 intercepted\xfffe\xf000Ă\x0001\x0001's Attack!
-The wild \xf000Ă\x0001\x0000 intercepted the wild \xf000븀\x0000\xf000Ă\x0001\x0001's Attack!
-The foe's \xf000Ă\x0001\x0000 intercepted\xfffe\xf000Ă\x0001\x0001's Attack!
-The foe's \xf000Ă\x0001\x0000 intercepted the foe's \xf000븀\x0000\xf000Ă\x0001\x0001's Attack!
+\xf000Ă\x0001\x0000 snatched\xfffe\xf000Ă\x0001\x0001's move!
+\xf000Ă\x0001\x0000 snatched\xfffethe wild \xf000Ă\x0001\x0001's move!
+\xf000Ă\x0001\x0000 snatched\xfffethe foe's \xf000Ă\x0001\x0001's move!
+The wild \xf000Ă\x0001\x0000 snatched\xfffe\xf000Ă\x0001\x0001's move!
+The wild \xf000Ă\x0001\x0000\xfffesnatched the wild \xf000븀\x0000\xf000Ă\x0001\x0001's move!
+The foe's \xf000Ă\x0001\x0000 snatched\xfffe\xf000Ă\x0001\x0001's move!
+The foe's \xf000Ă\x0001\x0000\xfffesnatched the foe's \xf000븀\x0000\xf000Ă\x0001\x0001's move!
 \xf000Ă\x0001\x0000 shrouded itself\xfffewith Magic Coat!
 The wild \xf000Ă\x0001\x0000 shrouded itself\xfffewith Magic Coat!
 The foe's \xf000Ă\x0001\x0000 shrouded itself\xfffewith Magic Coat!
@@ -768,9 +768,9 @@ The foe's \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffebounced back!
 \xf000Ă\x0001\x0000 has\xfffeleft the battle!
 The wild \xf000Ă\x0001\x0000 has\xfffeleft the battle!
 The foe's \xf000Ă\x0001\x0000 has\xfffeleft the battle!
-\xf000Ă\x0001\x0000 went\xfffeback to \xf000Ā\x0001\x0001!
-The wild \xf000Ă\x0001\x0000's \xf000Ā\x0001\x0001\xfffewent back to normal!
-The foe's \xf000Ă\x0001\x0000 went\xfffeback to \xf000Ā\x0001\x0002!
+\xf000Ă\x0001\x0000\xfffereturned to \xf000Ā\x0001\x0001!
+The wild \xf000Ă\x0001\x0000\xfffereturned to \xf000Ā\x0001\x0001!
+The foe's　\xf000Ă\x0001\x0000\xfffereturned to \xf000Ā\x0001\x0001!
 \xf000Ă\x0001\x0000 switched its\xfffeAttack and Defense!
 The wild \xf000Ă\x0001\x0000 switched its\xfffeAttack and Defense!
 The foe's \xf000Ă\x0001\x0000 switched its\xfffeAttack and Defense!
