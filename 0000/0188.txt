@@ -77,10 +77,10 @@ Mischievous.
 Thoroughly cunning.
 Often lost in thought.
 Very finicky.
-ちょっぴり みえっぱり。
-まけんきが つよい。
-まけずぎらい。
-ちょっぴり ごうじょう。
+Somewhat vain.
+Strongly defiant.
+Hates to lose.
+Somewhat stubborn.
 \xf000ȁ\x0001\x0006. \xf000ȁ\x0001\x0007, ２０\xf000ȁ\x0001\x0005\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000から\xfffeもらった ふしぎな\xfffeポケモンの タマゴ。
 \xf000ȁ\x0001\x0001. \xf000ȁ\x0001\x0002, ２０\xf000ȁ\x0001\x0000\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0004\xf000\xff00\x0001\x0000\xfffeてにいれた ふしぎな\xfffeポケモンの タマゴ。
 \xf000ȁ\x0001\x0006. \xf000ȁ\x0001\x0007, ２０\xf000ȁ\x0001\x0005\xfffe\xf000\xff00\x0001\x0001\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000\xfffeてにいれた とっても\xfffeふしぎな ふしぎな\xfffeポケモンの タマゴ。
